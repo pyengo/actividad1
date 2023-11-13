@@ -1,0 +1,58 @@
+body {
+    background-image: url('https://fotografias.antena3.com/clipping/cmsimages01/2022/10/11/8BAE2BA0-20D6-4963-B5E1-C4968730C00B/ninos-vestidos-denim_97.jpg?crop=5615,3158,x0,y0&width=1600&height=900&optimize=high&format=webply');
+    background-size: 100%; 
+    min-height: 90vh;
+    display: flex;
+    flex-direction: column;                  }
+footer { 
+    text-align: right;
+    margin-top: auto;}
+a {text-decoration: none;
+   color: black;}
+nav {
+    overflow: hidden;
+    position: fixed;
+    bottom: 0;
+    width: 100%; }
+ul { list-style-type: none; }
+li {
+    display: inline;
+    text-decoration: none;
+    color: black;      }
+img {
+    float: left;
+    height: 50px;
+    width: 70px; }
+h1{font-family: serif}
+.content-table{
+    margin: 25px 0;
+    font-size: 0,9em;
+    min-width: 400px;  }
+section {
+   background-color: rgba(250,235,215,0.8);
+    padding: 60px;}
+.container{
+    height: 200px;
+  position: relative;}
+.center{
+    margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);}
+h1 {text-align: center;
+    height: 100px;}
+.img1{
+    width: 60px;
+    height: 90px;}
+.img2{width: 60px;
+    height: 90px;}
+.img3 {width: 60px;
+    height: 90px;}
+.img4 {width: 60px;
+    height: 90px;}
+.img5 {width: 60px;
+    height: 90px;}
+.img6{width: 60px;
+    height: 90px;}

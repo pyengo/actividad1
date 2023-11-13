@@ -1,0 +1,60 @@
+body {
+    background-image: url('https://s1.eestatic.com/2019/08/08/corazon/estilo/moda-zara-el_estilo_419969221_131857600_1706x960.jpg');
+    background-size: 100%; 
+    min-height: 90vh;
+    display: flex;
+    flex-direction: column;                  }
+ 
+footer { 
+ text-align: right;
+ margin-top: auto;}
+nav {
+ overflow: hidden;
+ position: fixed;
+ bottom: 0;
+ width: 100%;}
+a {text-decoration: none;
+    color: black;}
+ul {list-style-type: none;}
+li {
+display: inline;
+text-decoration: none;
+color: black;         }
+img {
+float: left;
+height: 50px;
+width: 70px;}
+h1 {
+    font-family: serif;
+     text-align: center;}
+.content-table{
+    margin: 25px 0;
+    font-size: 0,9em;
+    min-width: 400px;
+    opacity: 1.0;}
+.container{
+    height: 200px;
+  position: relative;}
+.center{
+    margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);}
+section {
+    background-color: rgba(250,235,215,0.8);
+    padding: 60px;}
+.img1{
+    width: 60px;
+    height: 90px;}
+.img2{width: 60px;
+    height: 90px;}
+.img3 {width: 60px;
+    height: 90px;}
+.img4 {width: 60px;
+    height: 90px;}
+.img5 {width: 60px;
+    height: 90px;}
+.img6{width: 60px;
+    height: 90px;}

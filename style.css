@@ -1,0 +1,39 @@
+body {
+    background-image: url('https://fotografias.lasexta.com/clipping/cmsimages01/2020/01/23/6E2C91D3-376F-44E6-9BAC-46851E533F1E/97.jpg?crop=1000,563,x0,y5&width=1600&height=900&optimize=low&format=webply');
+    background-size: 100%;
+    animation: mymove 8s infinite;
+    min-height: 90vh;
+    display: flex;
+    flex-direction: column; }
+     @keyframes mymove {
+       from {background-image: url('https://fotografias.lasexta.com/clipping/cmsimages01/2020/01/23/6E2C91D3-376F-44E6-9BAC-46851E533F1E/97.jpg?crop=1000,563,x0,y5&width=1600&height=900&optimize=low&format=webply');}
+       to {background-image: url('https://cdn.businessinsider.es/sites/navi.axelspringer.es/public/media/image/2021/05/zara-beauty-llega-miercoles-dicen-quienes-ya-han-probado-2329899.jpg?tf=1920x');}
+     }
+footer { 
+     text-align: right;
+     margin-top: auto;
+     }
+a {
+    text-decoration: none;
+    color: black
+}
+nav {
+     overflow: hidden;
+     position: fixed;
+     bottom: 0;
+     width: 100%;
+   }
+ul {
+     list-style-type: none;
+     
+   }
+li {
+     display: inline;
+    text-decoration: none;
+    color: black;
+               }
+img {
+     float: left;
+     height: 50px;
+     width: 70px;
+   }
